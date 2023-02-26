@@ -1,0 +1,25 @@
+,var,level,Symptom,logit,logit_u,logit_l
+(Intercept)1,floor,Single family,a_Asymptomatic,1.209437299,1.360352198,1.0585224
+floor2,floor,Low rise,a_Asymptomatic,1.095250941,1.226410407,0.964091475
+floor3,floor,Lower mid-rise,a_Asymptomatic,1.491492526,1.592420041,1.390565011
+floor4,floor,Mid-rise,a_Asymptomatic,1.568348216,1.668049564,1.468646868
+floor5,floor,Higher mid-rise,a_Asymptomatic,1.623109215,1.719601202,1.526617228
+floor6,floor,High rise,a_Asymptomatic,1.566617915,1.733368005,1.399867825
+(Intercept)9,floor,Single family,b_No fever,1.061185883,1.206464762,0.915907004
+floor21,floor,Low rise,b_No fever,0.944127886,1.070714475,0.817541297
+floor31,floor,Lower mid-rise,b_No fever,1.364076711,1.461138765,1.267014657
+floor41,floor,Mid-rise,b_No fever,1.376170022,1.470046355,1.28229369
+floor51,floor,Higher mid-rise,b_No fever,1.470996526,1.562842683,1.37915037
+floor61,floor,High rise,b_No fever,1.337877262,1.493207758,1.182546765
+(Intercept)17,floor,Single family,c_Low fever,0.454684181,0.584961069,0.324407292
+floor22,floor,Low rise,c_Low fever,0.428648444,0.544952356,0.312344531
+floor32,floor,Lower mid-rise,c_Low fever,0.857733398,0.943198455,0.772268341
+floor42,floor,Mid-rise,c_Low fever,0.858577501,0.940954772,0.776200229
+floor52,floor,Higher mid-rise,c_Low fever,0.91559037,0.994817307,0.836363433
+floor62,floor,High rise,c_Low fever,0.872540478,1.010787077,0.734293879
+(Intercept)25,floor,Single family,d_High fever,-0.406339616,-0.27672857,-0.535950663
+floor23,floor,Low rise,d_High fever,-0.442753987,-0.326274021,-0.559233953
+floor33,floor,Lower mid-rise,d_High fever,-0.107459152,-0.029180445,-0.18573786
+floor43,floor,Mid-rise,d_High fever,-0.192616961,-0.116938421,-0.2682955
+floor53,floor,Higher mid-rise,d_High fever,-0.085442202,-0.013783911,-0.157100493
+floor63,floor,High rise,d_High fever,0.010341354,0.136401741,-0.115719033
