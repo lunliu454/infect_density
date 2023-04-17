@@ -1,9 +1,0 @@
-,var,level,Symptom,logit,logit_u,logit_l
-(Intercept),city,Rural,a_Asymptomatic,1.116340392,1.227866646,1.004814137
-city,city,Urban,a_Asymptomatic,1.546947969,1.599347459,1.494548479
-(Intercept)8,city,Rural,b_No fever,0.951516101,1.058759652,0.84427255
-city1,city,Urban,b_No fever,1.386035796,1.435866149,1.336205443
-(Intercept)16,city,Rural,c_Low fever,0.447767488,0.546342104,0.349192871
-city2,city,Urban,c_Low fever,0.853412881,0.896965145,0.809860617
-(Intercept)24,city,Rural,d_High fever,-0.437661048,-0.339194867,-0.536127228
-city3,city,Urban,d_High fever,-0.126357343,-0.086410366,-0.166304321
