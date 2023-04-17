@@ -1,0 +1,17 @@
+,var,level,Symptom,logit,logit_u,logit_l
+(Intercept)3,areapc,<=10sqm,a_Asymptomatic,1.461801914,1.766411978,1.157191849
+areapc2,areapc,10-20sqm,a_Asymptomatic,1.496662266,1.575733017,1.417591514
+areapc3,areapc,20-30sqm,a_Asymptomatic,1.527432496,1.600158829,1.454706162
+areapc4,areapc,>30sqm,a_Asymptomatic,1.319849262,1.427508086,1.212190437
+(Intercept)11,areapc,<=10sqm,b_No fever,1.322924747,1.615068241,1.030781254
+areapc21,areapc,10-20sqm,b_No fever,1.335677179,1.410963705,1.260390652
+areapc31,areapc,20-30sqm,b_No fever,1.362752077,1.431868676,1.293635478
+areapc41,areapc,>30sqm,b_No fever,1.163941636,1.267069336,1.060813937
+(Intercept)19,areapc,<=10sqm,c_Low fever,0.905981362,1.16895638,0.643006345
+areapc22,areapc,10-20sqm,c_Low fever,0.761069961,0.826688384,0.695451538
+areapc32,areapc,20-30sqm,c_Low fever,0.846145123,0.906885922,0.785404323
+areapc42,areapc,>30sqm,c_Low fever,0.699931979,0.793195304,0.606668653
+(Intercept)27,areapc,<=10sqm,d_High fever,0.199925261,0.439237802,-0.03938728
+areapc23,areapc,10-20sqm,d_High fever,-0.165298731,-0.103951791,-0.226645672
+areapc33,areapc,20-30sqm,d_High fever,-0.170712006,-0.114826476,-0.226597535
+areapc43,areapc,>30sqm,d_High fever,-0.236029452,-0.147588277,-0.324470627
